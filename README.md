@@ -130,13 +130,13 @@ Tambahkan di `welcome.blade.php`:
 ![Deskripsi Gambar](/assets/)
 
 - **Shopping Cart** dengan subtotal, VAT, discount, total  
-<img src="assets/cart.png" alt="Logo" width="100" height="100">
+![Shopping Cart Screenshot](assets/cart.png)
 
-- **Admin Page** panel admin untuk edit produk dan kategori  
-<img src="assets/productadmin.png" alt="Logo" width="100" height="100">
+- **Admin Page** panel admin untuk edit produk dan kategori
+![Admin Page Screenshot](assets/productadmin.png)  
 
-- **AI Recommendations** menampilkan produk relevan  
-<img src="assets/dashboardlogin.png" alt="Logo" width="100" height="100">
+- **AI Recommendations** menampilkan produk relevan
+![Admin Page Screenshot](assets/dashboardlogin.png)  
 
 ---
 
