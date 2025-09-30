@@ -125,18 +125,14 @@ Tambahkan di `welcome.blade.php`:
 
 ## 📸 Screenshots (contoh)
 
-- **Homepage** dengan daftar produk  
-
-![Deskripsi Gambar](/assets/)
+- **Homepage** dengan daftar produk dan **AI Recommendations** menampilkan produk relevan 
+![Admin Page Screenshot](assets/dashboardlogin.png)  
 
 - **Shopping Cart** dengan subtotal, VAT, discount, total  
 ![Shopping Cart Screenshot](assets/cart.png)
 
 - **Admin Page** panel admin untuk edit produk dan kategori
 ![Admin Page Screenshot](assets/productadmin.png)  
-
-- **AI Recommendations** menampilkan produk relevan
-![Admin Page Screenshot](assets/dashboardlogin.png)  
 
 ---
 
